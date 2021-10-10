@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title>My Netflix</title>
+            <style>
+                h2{
+                    color: red
+                }
+
+                td {
+                    padding: 80px;
+                }
+
+            </style>   
+    </head>
+    <body style="background-image: url(Back.jpg)">
+    <center>
+        <br><br><br><br>
+        <img src="Net.png" width="280px">
+    </center>
+    <table>
+        <center>
+            <tr>
+                <td rowspan="center"></td>
+            </tr>
+            <tr>
+
+                <td><img src="Goblin1.jpg" width="350px"></td>
+                <td><img src="Des.jpg" width="340px"></td>
+                <td><img src="king.jpg" width="350px"></td>
+
+            </tr>
+        </center>
+    </table>
+    </body>
+    
+</html>
